@@ -1,2 +1,3 @@
 # daily-music
-or not
+
+Repository to save drafts of daily songs or some noise.
